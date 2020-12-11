@@ -1,0 +1,18 @@
+title: ACE-BCBBB Training Seminars
+theme: jekyll-theme-minimal
+repository: niaid/RML
+url: "https://niaid.github.io/ACE-2020"
+
+exclude: [.gitignore, Gemfile, README.md, bashrc]
+
+plugins:
+  - jekyll-github-metadata
+  - jekyll-sitemap
+  - jekyll-relative-links
+
+permalinks: pretty
+kramdown:
+  entity_output: :as_input
+  hard_wrap: true
+  auto_ids: true
+gfm_quirks: []
