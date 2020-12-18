@@ -1,11 +1,4 @@
----
-layout: post
-title: ACE Training Schedule for 2021
----
-{::options toc_levels="1..2" /}
-
-* table of contents
-{:toc}
+ACE Training Schedule for 2021
 
 # INSTRUCTORS
 Computational Biology Specialists from the National Institute of Allergy and Infectious Diseases (NIAID) will be teaching courses on bioinformatics topics and biocomputing tools.
