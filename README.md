@@ -48,3 +48,18 @@ Yunhua Zhu, Ph.D.\*
 |3-19-2021 | 19.3.2021| A. Roy | Introduction to Awk and Sed programming | MSB 7103: Unix & Shell Scripting (3 CU)|
 |3-22-2021 | 22.3.2021| J. Gu | Introduction to statistical analysis in R | MSB7102: R programming and Bioconductor |
 |3-23-2021 | 23.3.2021| J. Gu | Introduction to statistical analysis in R | MSB7102: R programming and Bioconductor |
+|3-24-2021 | 24.03.2021 |A. Roy |Protein databases |MSB 7104: Online bioinformatics and sequence database|
+|3-26-2021 | 24.03.2021 |A. Roy |Protein databases |MSB 7104: Online bioinformatics and sequence database|
+|3-29-2021 | 24.03.2021 |D. Veltri |Introduction to R markdown |MSB7102: R programming and Bioconductor |
+|3-30-2021 | 24.03.2021 |A. Angelova |Functional metagenomics - WGS |MSB7105: High Throughput Sequencing and Analysis|
+|3-31-2021 | 24.03.2021 |D. Veltri |Introduction to R markdown |MSB7102: R programming and Bioconductor |
+|4-5-2021 | 24.03.2021 |K. Wollenberg |Genetic evolution/diversity mechanisms |MSB 7101: Molecular Biology for Bioinformatics|
+|4-6-2021 | 24.03.2021 |M. Quinones |Sequence retrieval tools and advanced literature search (PubMed) |MSB 7104: Online bioinformatics and sequence database|
+|4-7-2021 | 24.03.2021 |K. Wollenberg |Genetic evolution/diversity mechanisms |MSB 7101: Molecular Biology for Bioinformatics|
+|4-8-2021 | 24.03.2021 |M. Quinones |Sequence retrieval tools and advanced literature search (PubMed) |MSB 7104: Online bioinformatics and sequence database|
+|4-12-2021 | 24.03.2021 |H. Lorenzi |Nucleic Acid Techniques and Tools 1: Intro to NGS and Sanger sequencing |MSB 7101: Molecular Biology for Bioinformatics|
+|4-13-2021 | 24.03.2021 |P. Cruz |Cheminformatics – can we support? (Chemical compound – drug discovery- peptide DBAASP) |MSB 7104: Online bioinformatics and sequence database|
+|4-14-2021 | 24.03.2021 |H. Lorenzi |Nucleic Acid Techniques and Tools 1: Intro to NGS and Sanger sequencing |MSB 7101: Molecular Biology for Bioinformatics|
+|4-15-2021 | 24.03.2021 |P. Cruz |Cheminformatics – can we support? (Chemical compound – drug discovery- peptide DBAASP) |MSB 7104: Online bioinformatics and sequence database|
+|4-19-2021 | 24.03.2021 |M. Quinones |Nucleic Acid Techniques and Tools 2: Practical on Sanger or QC of NGS |MSB 7101: Molecular Biology for Bioinformatics|
+|4-21-2021 | 24.03.2021 |M. Quinones |Nucleic Acid Techniques and Tools 2: Practical on Sanger or QC of NGS |MSB 7101: Molecular Biology for Bioinformatics
