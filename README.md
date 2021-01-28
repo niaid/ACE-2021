@@ -1,65 +1,64 @@
-ACE Training Schedule for 2021
-
 # INSTRUCTORS
 Computational Biology Specialists from the National Institute of Allergy and Infectious Diseases (NIAID) will be teaching courses on bioinformatics topics and biocomputing tools.
 
-Angelina Angelova, Ph.D.\*
-Tony Armstrong, Ph.D.\*
-Phil Cruz, Ph.D.\*
-Jingwen Gu, M.S.\*
-Brendan Jeffrey, Ph.D.\*
-Eric Karlins, Ph.D.\*
-Andrew Oler, Ph.D.
-Mariam Quiñones, Ph.D.
-Amit Roy, Ph.D.\*
-Poorani Subramanian, Ph.D.\*
-Dan Veltri, Ph.D.
-Kurt Wollenberg, Ph.D.\*
-Yunhua Zhu, Ph.D.\*
+- Angelina Angelova, Ph.D.\*
+- Tony Armstrong, Ph.D.\*
+- Phil Cruz, Ph.D.\*
+- Jingwen Gu, M.S.\*
+- Brendan Jeffrey, Ph.D.\*
+- Eric Karlins, Ph.D.\*
+- Andrew Oler, Ph.D.
+- Mariam Quiñones, Ph.D.
+- Amit Roy, Ph.D.\*
+- Poorani Subramanian, Ph.D.\*
+- Dan Veltri, Ph.D.
+- Kurt Wollenberg, Ph.D.\*
+- Yunhua Zhu, Ph.D.\*
 
 	\* Instructors provide bioinformatics support at the NIAID as employees of Medical Science and Computing, Inc.
 
 # SCHEDULE
 
-| Date (US format) | Date (British format) | Instructor         | Topic             | Course                                          | 
-|------------------|-----------------------|--------------------|-------------------|-------------------------------------------------| 
-|2-15-2021 | 15.2.2021| A. Oler | Genome browsers | MSB 7104: Online bioinformatics and sequence database|
-|2-16-2021 | 16.2.2021| E. Karlins | Public projects based on human NGS data (Human genome, HapMap, population genetics, variations…) | MSB7105: High Throughput Sequencing and Analysis|
-|2-17-2021 | 17.2.2021| T. Armstrong | Introduction to UNIX editors | MSB 7103: Unix & Shell Scripting (3 CU)|
-|2-18-2021 | 18.2.2021| A. Oler | Genome browsers | MSB 7104: Online bioinformatics and sequence database|
-|2-19-2021 | 18.2.2021| T. Armstrong | Introduction to UNIX editors | MSB 7103: Unix & Shell Scripting (3 CU)|
-|2-23-2021 | 23.2.2021| B. Jeffrey | Processing of aligned reads for RNA-seq | MSB7105: High Throughput Sequencing and Analysis|
-|2-24-2021 | 24.2.2021| M. Quinones | Primary sequence databases | MSB 7104: Online bioinformatics and sequence database|
-|2-25-2021 | 25.2.2021| B. Jeffrey | Processing of aligned reads for RNA-seq | MSB7105: High Throughput Sequencing and Analysis|
-|2-26-2021 | 26.2.2021| M. Quinones | Primary sequence databases | MSB 7104: Online bioinformatics and sequence database|
-|3-1-2021 | 1.3.2021| J. Gu | Generating data and manipulating objects | MSB7102: R programming and Bioconductor |
-|3-2-2021 | 2.3.2021| A. Angelova | Metagenomics overview  | MSB7105: High Throughput Sequencing and Analysis|
-|3-3-2021 | 3.3.2021| A. Roy | Manipulating files and data on Linux | MSB 7103: Unix & Shell Scripting (3 CU)|
-|3-4-2021 | 4.3.2021| A. Angelova | Metagenomics overview  | MSB7105: High Throughput Sequencing and Analysis|
-|3-5-2021 | 5.3.2021| A. Roy | Manipulating files and data on Linux | MSB 7103: Unix & Shell Scripting (3 CU)|
-|3-8-2021 | 8.3.2021| J. Gu | Generating data and manipulating objects | MSB7102: R programming and Bioconductor |
-|3-9-2021 | 9.3.2021| P. Subramanian | Cyber environments for the processing and analysis of NGS data | MSB7105: High Throughput Sequencing and Analysis|
-|3-10-2021 | 10.3.2021| A. Roy | Shell Scripting/Programming | MSB 7103: Unix & Shell Scripting (3 CU)|
-|3-11-2021 | 11.3.2021| P. Subramanian | Managing data and simple analyses in the Galaxy cyber-environment (Practical) | MSB7105: High Throughput Sequencing and Analysis|
-|3-12-2021 | 12.3.2021| A. Roy | Shell Scripting/Programming | MSB 7103: Unix & Shell Scripting (3 CU)|
-|3-15-2021 | 15.3.2021| P. Subramanian | Generating graphics in R | MSB7102: R programming and Bioconductor |
-|3-16-2021 | 16.3.2021| P. Subramanian | Generating graphics in R | MSB7102: R programming and Bioconductor |
-|3-17-2021 | 17.3.2021| A. Roy | Introduction to Awk and Sed programming | MSB 7103: Unix & Shell Scripting (3 CU)|
-|3-19-2021 | 19.3.2021| A. Roy | Introduction to Awk and Sed programming | MSB 7103: Unix & Shell Scripting (3 CU)|
-|3-22-2021 | 22.3.2021| J. Gu | Introduction to statistical analysis in R | MSB7102: R programming and Bioconductor |
-|3-23-2021 | 23.3.2021| J. Gu | Introduction to statistical analysis in R | MSB7102: R programming and Bioconductor |
-|3-24-2021 | 24.03.2021 |A. Roy |Protein databases |MSB 7104: Online bioinformatics and sequence database|
-|3-26-2021 | 24.03.2021 |A. Roy |Protein databases |MSB 7104: Online bioinformatics and sequence database|
-|3-29-2021 | 24.03.2021 |D. Veltri |Introduction to R markdown |MSB7102: R programming and Bioconductor |
-|3-30-2021 | 24.03.2021 |A. Angelova |Functional metagenomics - WGS |MSB7105: High Throughput Sequencing and Analysis|
-|3-31-2021 | 24.03.2021 |D. Veltri |Introduction to R markdown |MSB7102: R programming and Bioconductor |
-|4-5-2021 | 24.03.2021 |K. Wollenberg |Genetic evolution/diversity mechanisms |MSB 7101: Molecular Biology for Bioinformatics|
-|4-6-2021 | 24.03.2021 |M. Quinones |Sequence retrieval tools and advanced literature search (PubMed) |MSB 7104: Online bioinformatics and sequence database|
-|4-7-2021 | 24.03.2021 |K. Wollenberg |Genetic evolution/diversity mechanisms |MSB 7101: Molecular Biology for Bioinformatics|
-|4-8-2021 | 24.03.2021 |M. Quinones |Sequence retrieval tools and advanced literature search (PubMed) |MSB 7104: Online bioinformatics and sequence database|
-|4-12-2021 | 24.03.2021 |H. Lorenzi |Nucleic Acid Techniques and Tools 1: Intro to NGS and Sanger sequencing |MSB 7101: Molecular Biology for Bioinformatics|
-|4-13-2021 | 24.03.2021 |P. Cruz |Cheminformatics – can we support? (Chemical compound – drug discovery- peptide DBAASP) |MSB 7104: Online bioinformatics and sequence database|
-|4-14-2021 | 24.03.2021 |H. Lorenzi |Nucleic Acid Techniques and Tools 1: Intro to NGS and Sanger sequencing |MSB 7101: Molecular Biology for Bioinformatics|
-|4-15-2021 | 24.03.2021 |P. Cruz |Cheminformatics – can we support? (Chemical compound – drug discovery- peptide DBAASP) |MSB 7104: Online bioinformatics and sequence database|
-|4-19-2021 | 24.03.2021 |M. Quinones |Nucleic Acid Techniques and Tools 2: Practical on Sanger or QC of NGS |MSB 7101: Molecular Biology for Bioinformatics|
-|4-21-2021 | 24.03.2021 |M. Quinones |Nucleic Acid Techniques and Tools 2: Practical on Sanger or QC of NGS |MSB 7101: Molecular Biology for Bioinformatics
+| Week No.  | Web Training Time (hours) | Date (US) | Date (UK)  | Instructor     | Topic                                                                                             | Course                                                                                                                                                | 
+|-----------|---------------------------|-----------|------------|----------------|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------| 
+| 2         | 2                         | 2/15/21   | 15/02/2021 | A. Oler        | Genome browsers                                                                                   | MSB 7104: Online bioinformatics and sequence database                                                                                                 | 
+| 2         | 2                         | 2/16/21   | 16/02/2021 | E.Karlins      | Public projects based on human NGS data (Human genome, HapMap, population genetics, variations…)  | MSB7105: High Throughput Sequencing and Analysis                                                                                                      | 
+| 2         | 2                         | 2/17/21   | 17/02/2021 | Tony           | Introduction to UNIX and text editing                                                             | MSB 7103: Unix & Shell Scripting (3 CU)                                                                                                               | 
+| 2         | 2                         | 2/18/21   | 18/02/2021 | H. Lorenzi     | Nucleic Acid Techniques and Tools 1: Intro to NGS and Sanger sequencing                           | MSB 7101: Molecular Biology for Bioinformatics (Sequencing Technologies; Types of seq libraries; NGS methods & applications; Sequencing data formats) | 
+| 2         | 2                         | 2/19/21   | 19/02/2021 | Tony           | Introduction to UNIX editors: Vi                                                                  | MSB 7103: Unix & Shell Scripting (3 CU)                                                                                                               | 
+| 3         | 2 lecture                 | 2/23/21   | 23/02/2021 | H. Lorenzi     | Nucleic Acid Techniques and Tools 1: Intro to NGS and Sanger sequencing - potentially a practical | MSB 7101: Molecular Biology for Bioinformatics                                                                                                        | 
+| 3         | 2                         | 2/24/21   | 24/02/2021 | B.Jeffrey      | Processing of aligned reads for RNA-seq                                                           | MSB7105: High Throughput Sequencing and Analysis                                                                                                      | 
+| 3         | 2 practical               | 2/25/21   | 25/02/2021 | M. Quinones    | Primary sequence databases                                                                        | MSB 7104: Online bioinformatics and sequence database                                                                                                 | 
+| 3         | 2                         | 2/26/21   | 26/02/2021 | B.Jeffrey      | Processing of aligned reads for RNA-seq                                                           | MSB7105: High Throughput Sequencing and Analysis                                                                                                      | 
+| 4         | 2                         | 3/1/21    | 03/01/2021 | M. Quinones    | Primary sequence databases                                                                        | MSB 7104: Online bioinformatics and sequence database                                                                                                 | 
+| 4         | 1.5 hours for 16S         | 3/2/21    | 03/02/2021 | J. Gu          | Generating data and manipulating objects                                                          | MSB7102: R programming and Bioconductor                                                                                                               | 
+| 4         | 2                         | 3/3/21    | 03/03/2021 | A. Angelova    | Metagenomics overview                                                                             | MSB7105: High Throughput Sequencing and Analysis                                                                                                      | 
+| 4         | 2                         | 3/4/21    | 03/04/2021 | Tony           | Introduction to UNIX editors: Vi advanced topics                                                  | MSB 7103: Unix & Shell Scripting (3 CU)                                                                                                               | 
+| 4         | 2                         | 3/5/21    | 03/05/2021 | P. Subramanian | Generating graphics in R - part I                                                                 | MSB7102: R programming and Bioconductor                                                                                                               | 
+| 5         | 2                         | 3/8/21    | 03/08/2021 | Amit           | Manipulating files and data on Linux                                                              | MSB 7103: Unix & Shell Scripting (3 CU)                                                                                                               | 
+| 5         | 2                         | 3/9/21    | 03/09/2021 | J. Gu          | Generating data and manipulating objects                                                          | MSB7102: R programming and Bioconductor                                                                                                               | 
+| 5         | 2                         | 3/10/21   | 03/10/2021 | P. Subramanian | Cyber environments for the processing and analysis of NGS data                                    | MSB7105: High Throughput Sequencing and Analysis                                                                                                      | 
+| 5         | 2                         | 3/11/21   | 03/11/2021 | Amit           | Shell Scripting/Programming                                                                       | MSB 7103: Unix & Shell Scripting (3 CU)                                                                                                               | 
+| 5         | 2                         | 3/12/21   | 03/12/2021 | P. Subramanian | Managing data and simple analyses in the Galaxy cyber-environment (Practical)                     | MSB7105: High Throughput Sequencing and Analysis                                                                                                      | 
+| 6         | 2                         | 3/15/21   | 15/03/2021 | Amit           | Shell Scripting/Programming                                                                       | MSB 7103: Unix & Shell Scripting (3 CU)                                                                                                               | 
+| 6         | 2                         | 3/16/21   | 16/03/2021 | D. Veltri      | Introduction to R markdown                                                                        | MSB7102: R programming and Bioconductor                                                                                                               | 
+| 6         | 2                         | 3/17/21   | 17/03/2021 | P. Subramanian | Generating graphics in R - part II                                                                | MSB7102: R programming and Bioconductor                                                                                                               | 
+| 6         | 2                         | 3/19/21   | 19/03/2021 | Amit           | Introduction to Awk and Sed programming                                                           | MSB 7103: Unix & Shell Scripting (3 CU)                                                                                                               | 
+| 7         | 1.5                       | 3/22/21   | 22/03/2021 | Amit           | Introduction to Awk and Sed programming                                                           | MSB 7103: Unix & Shell Scripting (3 CU)                                                                                                               | 
+| 7         | 1.5                       | 3/23/21   | 23/03/2021 | J. Gu          | Introduction to statistical analysis in R                                                         | MSB7102: R programming and Bioconductor                                                                                                               | 
+| 7         | 2                         | 3/24/21   | 24/03/2021 | J. Gu          | Introduction to statistical analysis in R                                                         | MSB7102: R programming and Bioconductor                                                                                                               | 
+| 7         | 2                         | 3/26/21   | 26/03/2021 | Amit           | Protein databases                                                                                 | MSB 7104: Online bioinformatics and sequence database                                                                                                 | 
+| 8         | 2                         | 3/29/21   | 29/03/2021 | Amit           | Protein databases                                                                                 | MSB 7104: Online bioinformatics and sequence database                                                                                                 | 
+| 8         | 2                         | 3/30/21   | 30/03/2021 | A. Angelova    | Metagenomics overview                                                                             | MSB7105: High Throughput Sequencing and Analysis                                                                                                      | 
+| 8         | 2                         | 3/31/21   | 31/03/2021 | A. Angelova    | Functional metagenomics - WGS                                                                     | MSB7105: High Throughput Sequencing and Analysis                                                                                                      | 
+| 9         | 2                         | 4/5/21    | 04/05/2021 | D. Veltri      | Introduction to R markdown                                                                        | MSB7102: R programming and Bioconductor                                                                                                               | 
+| 9         | 2                         | 4/6/21    | 04/06/2021 | K. Wollenberg  | Genetic evolution/diversity mechanisms                                                            | MSB 7101: Molecular Biology for Bioinformatics                                                                                                        | 
+| 9         | 2                         | 4/7/21    | 04/07/2021 | M. Quinones    | Sequence retrieval tools and advanced literature search (PubMed)                                  | MSB 7104: Online bioinformatics and sequence database                                                                                                 | 
+| 9         | 2                         | 4/8/21    | 04/08/2021 | K. Wollenberg  | Genetic evolution/diversity mechanisms                                                            | MSB 7101: Molecular Biology for Bioinformatics                                                                                                        | 
+| 10        | 2                         | 4/12/21   | 04/12/2021 | M. Quinones    | Sequence retrieval tools and advanced literature search (PubMed) - SRA                            | MSB 7104: Online bioinformatics and sequence database                                                                                                 | 
+| 10        | 2                         | 4/13/21   | 13/04/2021 | Phil Cruz      | Cheminformatics – can we support? (Chemical compound – drug discovery)                            | MSB 7104: Online bioinformatics and sequence database                                                                                                 | 
+| 10        | 2                         | 4/14/21   | 14/04/2021 | time available |                                                                                                   |                                                                                                                                                       | 
+| 10        | 2                         | 4/15/21   | 15/04/2021 | Phil Cruz      | Cheminformatics – can we support? (Chemical compound – drug discovery) - potential practical      | MSB 7104: Online bioinformatics and sequence database                                                                                                 | 
+| 11        | 2                         | 4/19/21   | 19/04/2021 | M. Quinones    | Nucleic Acid Techniques and Tools 2: Practical on Sanger or QC of NGS                             | MSB 7101: Molecular Biology for Bioinformatics                                                                                                        | 
+| 11        | 2                         | 4/21/21   | 21/04/2021 | M. Quinones    | Nucleic Acid Techniques and Tools 2: Practical on Sanger or QC of NGS                             | MSB 7101: Molecular Biology for Bioinformatics                                                                                                        | 
+
